@@ -1,3 +1,5 @@
+<p align="center"><b>English</b> · <a href="ar/README.md">العربية</a></p>
+
 <h1 align="center">AI Adoption Playbook</h1>
 
 <p align="center">
